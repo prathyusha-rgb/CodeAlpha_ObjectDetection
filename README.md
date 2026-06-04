@@ -1,5 +1,4 @@
-# CodeAlpha_translation_tool
-Translation tool-CodeAlpha AI Internship
+# Task 4 - Object Detection & Tracking
 ## How to Run
 1. Install dependencies:
    pip install -r requirements.txt
