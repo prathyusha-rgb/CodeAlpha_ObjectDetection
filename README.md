@@ -1,4 +1,4 @@
-# Task 4 - Object Detection & Tracking
+# Task 4 - Object Detection 
 ## How to Run
 1. Install dependencies:
    pip install -r requirements.txt
